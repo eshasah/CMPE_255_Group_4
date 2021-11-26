@@ -8,7 +8,7 @@
 
 ## Project title
 
-Predicting food poisoning and Restaurant Success.
+Predicting food poisoning and Restaurant Success. (Dataset: https://www.yelp.com/dataset)
 
 ## Project description
 
