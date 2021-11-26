@@ -1,5 +1,11 @@
 # CMPE_255_Group_4: Team Project
 
+## Team Members
+1. Siddhant Satish Parmar (015742389)
+2. Harshit Bhoraskar (015218606)
+3. Esha Shubham Sah (015250534)
+4. Divya Inder Khiani (015273245)
+
 ## Project title
 
 Predicting food poisoning and Restaurant Success.
