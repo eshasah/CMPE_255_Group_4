@@ -30,6 +30,28 @@ When a restaurateur decides to open a restaurant the model will help him to deci
 particular type of restaurant will be successful at a particular location. Huge restaurant chains can
 use this model to predict which type of restaurant will be more successful in which location.
 
+## Deliverables
+
+1. Code:
+#### Judging Criteria:
+- Dataset & problems addressed
+- Choice of the employed methods
+- Evaluation
+
+2. Project Report: Upload one .pdf file containing your group project report including:
+- link to github or other repository containing the source code for your application, 
+- scripts you used to preprocess data, etc.
+- experimental results (evaluation of algorithms, parameters, system, etc.
+#### Judging Criteria: 
+- Completeness
+- Clarity
+
+3. Project In-class Presentation
+#### Judging Criteria: 
+- Clear and structured (The presenters delivered the material in a clear and structured manner)
+- Concise and informative (The presentation was concise and informative)
+- Visual (The visual aids (slides and/or demo) were effective)
+
 ### Project Proposal
 
 [Link to the project proposal.](https://docs.google.com/document/d/1WZhXBGCW4XY3PH9bkvoJz6W9CnloRZuOtT39s2WHSU0/edit?usp=sharing)
