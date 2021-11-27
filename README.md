@@ -30,10 +30,14 @@ When a restaurateur decides to open a restaurant the model will help him to deci
 particular type of restaurant will be successful at a particular location. Huge restaurant chains can
 use this model to predict which type of restaurant will be more successful in which location.
 
-## Project Proposal
+### Project Proposal
 
 [Link to the project proposal.](https://docs.google.com/document/d/1WZhXBGCW4XY3PH9bkvoJz6W9CnloRZuOtT39s2WHSU0/edit?usp=sharing)
 
-## Project Report
+### Project Report
 
 [Link to the report.](https://docs.google.com/document/d/1t-M1LEcmXNgkGj7puKXZKxx1mE1pH_YTURwhw01zJhE/edit?usp=sharing)
+
+### Project Presentation
+
+[Link to the presentation.](https://docs.google.com/presentation/d/1GvnZEmmn7ErtTd50o6Kk5z9dIkrXiqz6KkMAr9LYctc/edit?usp=sharing)
