@@ -32,18 +32,21 @@ use this model to predict which type of restaurant will be more successful in wh
 
 ## Deliverables
 
-1. Code:
+#### 1. Code:
+
 **Judging Criteria:**
 - Dataset & problems addressed
 - Choice of the employed methods
 - Evaluation
 
-2. Project Report: Upload one .pdf file containing your group project report.
+#### 2. Project Report: Upload one .pdf file containing your group project report.
+
 **Judging Criteria:**
 - Completeness
 - Clarity
 
-3. Project In-class Presentation
+#### 3. Project In-class Presentation
+
 **Judging Criteria:**
 - Clear and structured (The presenters delivered the material in a clear and structured manner)
 - Concise and informative (The presentation was concise and informative)
