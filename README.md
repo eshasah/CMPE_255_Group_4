@@ -33,33 +33,24 @@ use this model to predict which type of restaurant will be more successful in wh
 ## Deliverables
 
 1. Code:
-#### Judging Criteria:
+**Judging Criteria:**
 - Dataset & problems addressed
 - Choice of the employed methods
 - Evaluation
 
-2. Project Report: Upload one .pdf file containing your group project report including:
-- link to github or other repository containing the source code for your application, 
-- scripts you used to preprocess data, etc.
-- experimental results (evaluation of algorithms, parameters, system, etc.
-###### Judging Criteria: 
+2. Project Report: Upload one .pdf file containing your group project report.
+**Judging Criteria:**
 - Completeness
 - Clarity
 
 3. Project In-class Presentation
-#### Judging Criteria: 
+**Judging Criteria:**
 - Clear and structured (The presenters delivered the material in a clear and structured manner)
 - Concise and informative (The presentation was concise and informative)
 - Visual (The visual aids (slides and/or demo) were effective)
 
-### Project Proposal
+**Project Proposal** [Link to the project proposal.](https://docs.google.com/document/d/1WZhXBGCW4XY3PH9bkvoJz6W9CnloRZuOtT39s2WHSU0/edit?usp=sharing)
 
-[Link to the project proposal.](https://docs.google.com/document/d/1WZhXBGCW4XY3PH9bkvoJz6W9CnloRZuOtT39s2WHSU0/edit?usp=sharing)
+**Project Report** [Link to the report.](https://docs.google.com/document/d/1t-M1LEcmXNgkGj7puKXZKxx1mE1pH_YTURwhw01zJhE/edit?usp=sharing)
 
-### Project Report
-
-[Link to the report.](https://docs.google.com/document/d/1t-M1LEcmXNgkGj7puKXZKxx1mE1pH_YTURwhw01zJhE/edit?usp=sharing)
-
-### Project Presentation
-
-[Link to the presentation.](https://docs.google.com/presentation/d/1GvnZEmmn7ErtTd50o6Kk5z9dIkrXiqz6KkMAr9LYctc/edit?usp=sharing)
+**Project Presentation** [Link to the presentation.](https://docs.google.com/presentation/d/1GvnZEmmn7ErtTd50o6Kk5z9dIkrXiqz6KkMAr9LYctc/edit?usp=sharing)
