@@ -10,6 +10,10 @@
 
 Predicting food poisoning and Restaurant Success. (Dataset: https://www.yelp.com/dataset)
 
+## Project Report
+
+Link to the report: https://docs.google.com/document/d/1t-M1LEcmXNgkGj7puKXZKxx1mE1pH_YTURwhw01zJhE/edit?usp=sharing
+
 ## Project description
 
 Using Yelp restaurant reviews to classify restaurant businesses that are most likely to cause food
