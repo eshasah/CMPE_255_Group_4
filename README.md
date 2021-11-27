@@ -52,6 +52,8 @@ use this model to predict which type of restaurant will be more successful in wh
 - Concise and informative (The presentation was concise and informative)
 - Visual (The visual aids (slides and/or demo) were effective)
 
+## Documentation
+
 **Project Proposal** [Link to the project proposal.](https://docs.google.com/document/d/1WZhXBGCW4XY3PH9bkvoJz6W9CnloRZuOtT39s2WHSU0/edit?usp=sharing)
 
 **Project Report** [Link to the report.](https://docs.google.com/document/d/1t-M1LEcmXNgkGj7puKXZKxx1mE1pH_YTURwhw01zJhE/edit?usp=sharing)
