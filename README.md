@@ -8,7 +8,7 @@
 
 ## Project title
 
-Predicting food poisoning and Restaurant Success. (Dataset: https://www.yelp.com/dataset)
+Predicting food poisoning and Restaurant Success. ([Dataset](https://www.yelp.com/dataset))
 
 ## Project description
 
@@ -32,8 +32,8 @@ use this model to predict which type of restaurant will be more successful in wh
 
 ## Project Proposal
 
-Link to the project proposal: https://docs.google.com/document/d/1WZhXBGCW4XY3PH9bkvoJz6W9CnloRZuOtT39s2WHSU0/edit?usp=sharing
+[Link to the project proposal.](https://docs.google.com/document/d/1WZhXBGCW4XY3PH9bkvoJz6W9CnloRZuOtT39s2WHSU0/edit?usp=sharing)
 
 ## Project Report
 
-Link to the report: https://docs.google.com/document/d/1t-M1LEcmXNgkGj7puKXZKxx1mE1pH_YTURwhw01zJhE/edit?usp=sharing
+[Link to the report.](https://docs.google.com/document/d/1t-M1LEcmXNgkGj7puKXZKxx1mE1pH_YTURwhw01zJhE/edit?usp=sharing)
