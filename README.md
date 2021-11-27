@@ -42,7 +42,7 @@ use this model to predict which type of restaurant will be more successful in wh
 - link to github or other repository containing the source code for your application, 
 - scripts you used to preprocess data, etc.
 - experimental results (evaluation of algorithms, parameters, system, etc.
-#### Judging Criteria: 
+###### Judging Criteria: 
 - Completeness
 - Clarity
 
